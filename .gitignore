@@ -1,12 +1,8 @@
-#
 #Carpetas
-#
 apache-tomcat-8.5.88/
 apache-tomcat-8.5.82/
 .metadata/
-#
 #Todos los archivos
-#
 *.jar
 *.lock
 *.log
