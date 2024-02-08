@@ -35,3 +35,15 @@
 *.pydevproject
 *.tmp
 *.policy
+*.xls
+*.xsd
+*.jsp
+*.svg
+*.css
+*.py 
+*.html
+*.gif
+*.dtd
+*.md
+*.tag
+*.tld
