@@ -47,3 +47,16 @@
 *.md
 *.tag
 *.tld
+*.xsl
+*.xhtml
+*.jspf
+*.woff
+*.png
+*.war
+*.gz
+*.tar
+*.sh
+*.jspx
+*.ico
+#Carpetas
+apache-tomcat-8.5.82/
