@@ -1,0 +1,39 @@
+#Tipos de archivo ignorados
+. jar
+. lock
+. log
+. ini
+. properti es
+. xml
+. txt
+. locati on
+. markers
+. tree
+. vers i on
+. index
+. resources
+. prefs
+. xmi
+. project
+. dat
+. ser
+. setti ngs
+. wt
+. bson
+. turtle
+. 2023-07-24T19-50-32Z-OOOOO
+. 0000000001
+. 0000000002
+. parasoft
+. bak
+. csv
+. bat
+. rar
+. xls
+. suppress
+. classpath
+. class
+. java
+. pydevproj ect
+. tmp
+. pol icy
